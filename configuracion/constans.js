@@ -1,3 +1,3 @@
 export const c = {
-    name:"Mergue app col"
+    name:"Mergue app"
 };
